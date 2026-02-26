@@ -30,9 +30,6 @@ The goal of the game is for the character to light up all the candles. To light 
 In this game, you will use the console to interact with a user by (a) printing the board on the console using symbols (of your choice) to represent the character, matches, candles, and shadow monsters and (b) accepting the next move to make from the user. You will also print messages, such as “Fear increased” sent when a shadow monster gets too close, or an inability to make the requested move, on the console.
 
 
-
-Link: https://play.library.utoronto.ca/watch/1de54a7bc28409a384e5e709431afb24 
-
 Starter Code
 We are providing starter code that provides an example of how to store information about the game state. The starter code also provides a non-random number generator. Your first task is to read this code to see what facilities it provides:
 
