@@ -1,4 +1,4 @@
-# Haunted House — A Grid-Based Survival Game in RISC-V Assembly
+# Haunted House — A 2-D Grid-Based Survival Game in RISC-V Assembly
 
 A survival game written entirely in RISC-V (RV32) assembly. The player navigates a dark house, collect a match, light the candle, and escape before the shadow monster drives your fear to 100. Features unlimited undo and competitive multiplayer with a sorted leaderboard.
 
